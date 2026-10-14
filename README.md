@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://youtu.be/Vly9ZtikKFU">
+    <img src="https://img.youtube.com/vi/Vly9ZtikKFU/0.jpg" alt="Liquid AI's New LFM 2.5 Is INSANE — 184 TOK/S With Only 2B Active! (Live Tests)">
+  </a>
+  <h3>📺 <a href="https://youtu.be/Vly9ZtikKFU">Watch the full tutorial on YouTube</a></h3>
+</div>
+
 # ⚡ Liquid LFM2.5-24B-A2B: Edge Reasoning Revolution
 
 <div align="center">
